@@ -6,7 +6,6 @@ My name is Edson Miguel and I am from the interior of São Paulo 🇧🇷, I hav
  Would you like to find me?
 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-1fff14?style=flat-square&labelColor=1fff14&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981773170&text=Ol%C3%A1%20cidad%C3%A3o%20do%20ciberespa%C3%A7o%F0%9F%96%96%20)](https://api.whatsapp.com/send?phone=5514981773170&text=Ol%C3%A1%20cidad%C3%A3o%20do%20ciberespa%C3%A7o%F0%9F%96%96%20)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-miguel/)](https://www.linkedin.com/in/edson-miguel/)
 
 
