@@ -1,7 +1,7 @@
 ### "Olá pessoas!" \o/ 👋
 
   
-My name is Edson Miguel and I am from the interior of São Paulo 🇧🇷, I have a degree in Systems Analysis and Development from Faculdade de Tecnologia de Botucatu 👨‍🎓. I currently participate in RocketSeat's Ignite Careers Acceleration Program 🚀. I've been studying Full Stack development since 2019 and I'm an Information Security and Hacking enthusiast 👨‍💻.
+My name is Edson Miguel and I'm from a small town (São Manuel) located in the state of São Paulo 🇧🇷, I have a degree in Systems Analysis and Development from Faculdade de Tecnologia de Botucatu 👨‍🎓. I currently participate in RocketSeat's Ignite Careers Acceleration Program 🚀. I've been studying Full Stack development since 2019 and I'm an Information Security and Hacking enthusiast 👨‍💻.
 
  Would you like to find me?
 
