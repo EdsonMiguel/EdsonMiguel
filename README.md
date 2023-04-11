@@ -11,5 +11,5 @@ Me chamo Edson Miguel, tenho 22 anos, sou formado em Análise e Desenvolvimento 
 
 
 
-![Edson Miguel's github stats](https://github-readme-stats.vercel.app/api?username=EdsonMiguel&theme=dark&show_icons=true&count_private=true)
+
 
